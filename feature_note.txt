@@ -1,0 +1,9 @@
+waist_to_hip_ratio (WHR): 허리/엉덩이 둘레
+HDL_Cholesterol: 좋은 콜레스테롤. 혈관청소, 높을수록 좋음
+LDL_Cholesterol: 나쁜
+Total_Cholesterol: HDL+LDL
+triglycerides: 혈액 속 지방 (중성지방). 식사/생활습관 영향 큼
+systolic BP: 심장이 수축할 때 압력
+diastolic BP: 이완할 때 압력
+hypertension_history: 고혈압 이력 (0/1)
+BMI: 체중/키2
